@@ -2,7 +2,7 @@ stm8/
 
 	#include "mapping.inc"
   #include "stm8s003f3.inc"
-	
+	;all the libraries for peripherial are avaliable on https://github.com/aaw20904/STM8_library
 	;--!!--SYSTEM CLOCK = 5MHz-----
 	;please re-write it for case without crystal
 	#define MIN_DURATION #$000A
